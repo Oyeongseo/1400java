@@ -101,9 +101,10 @@ public class BasicOutputMethod {
 //		   *******
 //		    *****
 //		     ***
-//		      *
+//		      * 
 		      
 		System.out.printf("");
+		System.out.println("GitHub TEST");
 		
 	}
 
